@@ -1,0 +1,15 @@
+{
+  "name": "chat_app_adv",
+  "version": "1.0.0",
+  "description": "This is simple chat app for understanding the concept",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.30",
+    "socket.io": "^2.1.1"
+  }
+}
